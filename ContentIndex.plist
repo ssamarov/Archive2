@@ -9,7 +9,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -19,7 +19,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -29,7 +29,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -39,7 +39,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -52,7 +52,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -62,7 +62,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -72,7 +72,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -82,7 +82,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -95,7 +95,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -105,7 +105,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -115,7 +115,7 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
@@ -125,97 +125,97 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>Major</key>
 				<integer>1</integer>
 			</dict>
 		</dict>
 	</dict>
-	<key>fr_FR</key>
-	<dict>
-		<key>chronicHiFlow</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<key>systemOnePlus</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<key>versi</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<key>apollo</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-	</dict>
-	<key>it_IT</key>
-	<dict>
-		<key>chronicHiFlow</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<key>systemOnePlus</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<key>versi</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<key>apollo</key>
-		<dict>
-			<key>UndefinedUicVersion</key>
-			<dict>
-				<key>Minor</key>
-				<integer>2</integer>
-				<key>Major</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-	</dict>
+    <key>fr_FR</key>
+    <dict>
+        <key>chronicHiFlow</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>systemOnePlus</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>versi</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>apollo</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+    </dict>
+    <key>it_IT</key>
+    <dict>
+        <key>chronicHiFlow</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>systemOnePlus</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>versi</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>apollo</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+    </dict>
 </dict>
 </plist>
