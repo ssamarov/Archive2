@@ -181,9 +181,9 @@
 			<key>UndefinedUicVersion</key>
 			<dict>
 				<key>Minor</key>
-				<integer>1</integer>
-				<key>Major</key>
 				<integer>2</integer>
+				<key>Major</key>
+				<integer>1</integer>
 			</dict>
 		</dict>
 		<key>systemOnePlus</key>
