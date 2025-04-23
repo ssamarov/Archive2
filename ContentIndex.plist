@@ -260,5 +260,48 @@
             </dict>
         </dict>
     </dict>
+    <key>es_PR</key>
+    <dict>
+        <key>chronicHiFlow</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>systemOnePlus</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>versi</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+        <key>apollo</key>
+        <dict>
+            <key>UndefinedUicVersion</key>
+            <dict>
+                <key>Minor</key>
+                <integer>1</integer>
+                <key>Major</key>
+                <integer>1</integer>
+            </dict>
+        </dict>
+    </dict>
 </dict>
 </plist>
